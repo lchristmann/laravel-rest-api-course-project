@@ -1,3 +1,11 @@
+# How to Build a REST API With Laravel: PHP Full Course
+
+by Envato Tuts+
+
+YouTube: https://www.youtube.com/watch?v=YGqCZjdgJJk
+
+The project uses the below Laravel Docker Examples Project as starter.
+
 # Laravel Docker Examples Project
 
 ## Table of Contents
